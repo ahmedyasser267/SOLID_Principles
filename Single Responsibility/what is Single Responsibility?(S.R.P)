@@ -11,3 +11,6 @@ Organization – Smaller, well-organized classes are easier to search than monol
 The Single Responsibility Principle (SRP) is the concept that any single object in object-oriented programing (OOP) 
 should be made for one specific function. SRP is part of SOLID programming principles put forth by Robert Martin. 
 Traditionally, code that is in keeping with SRP has a single function per class.
+----------------------------------------------ا
+الفكره بصفه عامه انك بتحاول تقلل استهدام الفانشكنز او الميثود بمعني تاني 
+لوفي مثلا كلاس بيعمل حاجه معينه مش من الصح ان اخليه يعمل حاجه تانيه بحيث لو عدلت فكلاس تاني الكلاس ده مياثرش
